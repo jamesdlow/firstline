@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:limegreen="http://code.google.com/p/limegreen">
 <id>http://jameslow.com/work/firstline/</id>
 <title>Firstline AutoUpdate</title>
-<link href="https://raw.githubusercontent.com/jamesdlow/firstline/master//Firstline.xml" rel="self"/>
+<link href="https://raw.githubusercontent.com/jamesdlow/firstline/master/Firstline.xml" rel="self"/>
 <link href="http://jameslow.com/work/firstline/"/>
 <author>
 <name>Limegreen AutoUpdate Generator</name>
@@ -161,17 +161,17 @@ Latest version of limegreen application core</content>
 <content>Fix for options on Windows</content>
 </entry>
 <entry>
-<id>http://jameslow.com/work/firstline/?limegreenbuild=637</id>
+<id>https://github.com/jamesdlow/firstline/releases/tag/2.0.0</id>
 <title>Firstline 2.0.0 (build 637)</title>
 <limegreen:build>637</limegreen:build>
 <limegreen:version>2.0.0</limegreen:version>
 <limegreen:experimental>false</limegreen:experimental>
 <updated>2014-10-31T10:59:52+00:00</updated>
-<link href="http://jameslow.com/work/firstline/?limegreenbuild=637"/>
-<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0//Firstline-win-2.0.0.zip" length="839543" rel="enclosure" title="Firstline Win Zip" type="application/zip"/>
-<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0//Firstline-mac-2.0.0.zip" length="575855" rel="enclosure" title="Firstline Mac Zip" type="application/zip"/>
-<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0//Firstline-other-2.0.0.zip" length="563422" rel="enclosure" title="Firstline Other Zip" type="application/zip"/>
-<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0//Firstline-2.0.0.dmg" length="607066" rel="enclosure" title="Firstline Mac Disk Image" type="application/octet-stream"/>
+<link href="https://github.com/jamesdlow/firstline/releases/tag/2.0.0"/>
+<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0/Firstline-win-2.0.0.zip" length="839543" rel="enclosure" title="Firstline Win Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0/Firstline-mac-2.0.0.zip" length="575855" rel="enclosure" title="Firstline Mac Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0/Firstline-other-2.0.0.zip" length="563422" rel="enclosure" title="Firstline Other Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/firstline/releases/download/2.0.0/Firstline-2.0.0.dmg" length="607066" rel="enclosure" title="Firstline Mac Disk Image" type="application/octet-stream"/>
 <content>New version hosted by GitHub</content>
 </entry>
 </feed>
